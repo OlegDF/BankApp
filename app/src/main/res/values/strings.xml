@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Мобильный Банк</string>
+    <string name="login_text">Введите логин и пароль:</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="bank_name">БАНК</string>
+    <string name="log_in">Войти</string>
+    <string name="list_cards">Список счетов</string>
+    <string name="transactions">История транзакций</string>
+    <string name="new_transaction">Переводы</string>
+    <string name="credit">Кредиты</string>
+    <string name="autopayment">Автоплатежи</string>
+    <string name="settings">Настройки</string>
+    <string name="card_number">Номер: </string>
+    <string name="balance">Баланс: </string>
+    <string name="currency_name">р.</string>
+    <string name="at_time">в</string>
+    <string name="transaction_card_prompt">Номер карты-получателя</string>
+    <string name="transaction_sum_prompt">Сумма перевода</string>
+    <string name="make_transaction">Совершить перевод</string>
+    <string name="sender_hint">Номер карты-отправителя</string>
+    <string name="continue_text">Продолжить</string>
+    <string name="transaction_successful_text">Операция проведена успешно</string>
+    <string name="password_repeat">Повторите пароль</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="create_user">Создать пользователя</string>
+    <string name="phone_num">Номер телефона</string>
+    <string name="add_card">Прикрепить карту</string>
+    <string name="logout">Выйти</string>
+    <string name="add_card_prompt">Номер карты</string>
+    <string name="card_add_successful_text">Карта прикреплена</string>
+    <string name="create_card">Создать новую карту</string>
+    <string name="card_created_successful_text">Карта создана</string>
+</resources>
